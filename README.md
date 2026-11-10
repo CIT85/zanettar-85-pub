@@ -14,3 +14,10 @@
 - Inline elements generally appear within the surrounding text.
 - Examples include strong, em, and a.
 - CSS can change how an element is displayed. -->
+## Links
+
+- The a element creates a hyperlink.
+- The href attribute specifies the link destination.
+- An absolute URL includes a full address,the full url www.zanettaspage.com
+- A relative path locates a file relative to the current document.
+- .html links the html folder to its self
