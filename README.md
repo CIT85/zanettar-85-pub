@@ -7,3 +7,10 @@
 - The h2 elements identify major sections.
 - Heading levels communicate the organization of the content.
 - A heading should not be nested inside another heading. -->
+## Block vs Inline Elements
+
+<!-- - Block elements generally begin on a new line in the default layout.
+- Examples include p, h1, ul, and div.
+- Inline elements generally appear within the surrounding text.
+- Examples include strong, em, and a.
+- CSS can change how an element is displayed. -->
